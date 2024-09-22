@@ -11,7 +11,7 @@ int main() {
 
     cout << "1: ";
     for (int i = 0; i < size; ++i) {
-        arr1[i] = i + 1;  
+        arr1[i] = i + 1;
         cout << arr1[i] << " ";
     }
     cout << endl;
